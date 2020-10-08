@@ -12,5 +12,5 @@ runs:
     image: "Dockerfile"
 
 branding:
-    icon: "mic"
+    icon: "bar-chart-2"
     color: "purple"
